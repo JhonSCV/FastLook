@@ -1,0 +1,10 @@
+## Dependencies
+node_modules
+
+## Lock file(s)
+package-lock.json
+
+## Firebase
+
+## Env file
+.env
